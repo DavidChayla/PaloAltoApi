@@ -1,6 +1,6 @@
 # PaloAltoApi
 
-Simple pyhton API to access PaloAlto firewall
+Simple python API to access PaloAlto firewall
 - panorama shared
 - panorama device-group
 - vsys fw
