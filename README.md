@@ -27,3 +27,8 @@ import PaloAlto
 p = PaloAlto.DeviceGroup("10.10.10.64","token","fw1")
 print(p.GetUrlCategory("test"))
 ```
+
+How to get a token from your fw:
+```
+  https://<fw>/api?type=keygen&user=<user>&password=<password>
+```
